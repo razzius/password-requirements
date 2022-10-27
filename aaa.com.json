@@ -1,0 +1,7 @@
+{
+  "description": "minimum length 6 characters, 1 lower case, 1 upper case, 1 digit",
+  "minimum_length": 6,
+  "minimum_lowercase": 1,
+  "minimum_numbers": 1,
+  "minimum_uppercase": 1
+}
